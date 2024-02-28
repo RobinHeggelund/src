@@ -1,0 +1,17 @@
+# Auto_Path.action
+
+# Goal definition
+float32 x
+float32 y
+bool endpoint
+
+---
+
+# Result definition
+bool success
+
+---
+
+# Feedback definition
+float32 degrees
+float32 distance
